@@ -1,0 +1,4 @@
+Enter two strings and I'll tell you if they are anagrams:
+Enter the first string: loan
+Enter the second string: bone
+loan and bone are not anagrams.

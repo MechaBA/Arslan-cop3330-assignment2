@@ -1,0 +1,14 @@
+Enter Age: 25
+Enter resting heart rate: 70
+Resting Pulse: 70.0      Age: 25
+Intensity | Rate
+--------- | -------
+55%       | 139 bpm
+60%       | 145 bpm
+65%       | 151 bpm
+70%       | 158 bpm
+75%       | 164 bpm
+80%       | 170 bpm
+85%       | 176 bpm
+90%       | 183 bpm
+95%       | 189 bpm

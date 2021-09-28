@@ -1,0 +1,24 @@
+Let's play Guess the Number!
+Difficulty level(1/2/3): 2
+I have my number. What's your guess? 3
+Too low. Guess again:
+7
+Too low. Guess again:
+15
+Too low. Guess again:
+25
+Too low. Guess again:
+50
+Too high. Guess again:
+35
+Too high. Guess again:
+30
+Too low. Guess again:
+33
+Too high. Guess again:
+31
+You got it in 9 guesses!
+
+Do you wish to play again (Y/N)? N
+
+Process finished with exit code 0
